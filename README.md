@@ -1,6 +1,6 @@
 # Hi, I'm Marianne. 👋
 
-I'm a senior product designer working across **product strategy, systems, UX, and AI-assisted product development**.
+I'm a senior product designer + builder working across **product strategy, systems, UX, and AI-assisted product development**.
 
 I gravitate toward complicated problems — interconnected workflows, business rules, customer behavior, operational constraints, and ideas that aren't fully formed yet — and turn them into experiences and systems people can understand, use, and build.
 
